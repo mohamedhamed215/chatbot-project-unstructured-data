@@ -1,7 +1,4 @@
-numpy
-pandas
-scikit-learn
-dotenv
-google-genai
-streamlit
+streamlit==1.32.0
+altair==4.2.2
 openai
+python-dotenv

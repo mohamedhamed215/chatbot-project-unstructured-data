@@ -174,7 +174,7 @@ with col2:
                             label="📥 Download JSON",
                             data=json_str,
                             file_name="extracted_data.json",
-                            mime="application/json"
+                            mime="appslication/json"
                         )
                     else:
                         st.error("I got the data but couldn't format it as clean JSON.")
