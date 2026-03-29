@@ -25,6 +25,34 @@ A **Streamlit app** that converts raw, unstructured text into clean, structured 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/structured-data-extractor.git
+git clone https://github.com/mohamedhamed215/chatbot-project-unstructured-data
 cd structured-data-extractor
+📝 Usage
+Paste raw text into the input box.
+Click Send.
+Receive structured JSON output.
+Copy or download for further processing.
+🖥️ Tech Stack
+Python 3.10+
+Streamlit
+Groq OpenAI API
+JSON parsing & regex
+🤝 Contributing
+Fork the repository
+Create a branch for your feature
+Submit pull requests
+Ensure code follows the project style
+📄 License
+
+This project is licensed under MIT License – see the LICENSE
+ file.
+
+👤 Author
+
+Mohamed Hamed – Accountant & Developer
+
+Email: mohamedhamed215@gmail.com
+Phone: +20 1286402076
+GitHub: mohamedhamed215
+
 
